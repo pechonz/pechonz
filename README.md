@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pechonz
+- 👀 I’m interested in IoT,Web Development
+- 🌱 I’m currently learning Python, React js
